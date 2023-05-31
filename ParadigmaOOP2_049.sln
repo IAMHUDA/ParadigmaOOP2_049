@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP2_049", "Paradi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SolveMultiwaris", "SolveMultiwaris\SolveMultiwaris.vcxproj", "{78338412-7409-4EBA-B431-D4F2943B084D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorphism", "polimorphism\polimorphism.vcxproj", "{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{78338412-7409-4EBA-B431-D4F2943B084D}.Release|x64.Build.0 = Release|x64
 		{78338412-7409-4EBA-B431-D4F2943B084D}.Release|x86.ActiveCfg = Release|Win32
 		{78338412-7409-4EBA-B431-D4F2943B084D}.Release|x86.Build.0 = Release|Win32
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Debug|x64.ActiveCfg = Debug|x64
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Debug|x64.Build.0 = Debug|x64
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Debug|x86.Build.0 = Debug|Win32
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Release|x64.ActiveCfg = Release|x64
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Release|x64.Build.0 = Release|x64
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Release|x86.ActiveCfg = Release|Win32
+		{B80B0EA8-7E1B-4180-A1AE-4D7CBED12F0F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
