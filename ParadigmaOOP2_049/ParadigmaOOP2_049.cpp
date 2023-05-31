@@ -6,8 +6,8 @@ public:
 	int umur;
 	 
 	orang(int pUmur) : 
-		umur(pUmur)
+		umur(pUmur) 
 	{
-		cout << "orang dibuat dengan unsur " << umur << "\n" << endl;
+		cout << "orang dibuat dengan umur " << umur << "\n" << endl;
 	}
 };
